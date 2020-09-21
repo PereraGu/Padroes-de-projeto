@@ -1,0 +1,13 @@
+a. Pattern Name and Classification: É um padrão proposto para tratar um problema de design que ocorre em sistemas orientados a objetos.
+
+b. Intent: Responsável por separar a construção de um objeto complexo de sua representação para que o mesmo processo de construção possa criar diferentes representações.
+
+c. Motivation: Explica um problema típico e específico, a motivação deixa claro que esse problema é generalizado. Pode incluir diagramas de classe ou diagramas de objetos, juntamente com uma descrição textual.
+
+d. Applicability: É uma lista de condições que devem ser seguidas para a utilização correta da padronização. Essa lista deve conter o objetivo a ser alcançado, aspectos do programa e restrições.
+
+e. Structure: Responsável por descrever os padrões em forma de diagramas de classe e diagramas de objetos. Os nomes apresentados nesses diagramas fazem parte dos citados nos exemplos específicos presentes na motivação.
+
+f. Participants: Descrição das classes presentes na sessão de estrutura. A lista deve conter as responsabilidade e objetivos de cada classe do projeto.
+
+g. Sample Code: É o código essencial para demonstrar um problema típico, presente geralmente na motivação. O código demonstra em detalhes o padrão aplicado.
